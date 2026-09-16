@@ -1,0 +1,41 @@
+{
+  "id": 35,
+  "category": "game-offline",
+  "slug": "dying-light-beast-story-lab",
+  "target": "Dying Light: The Beast",
+  "appid": "3008130",
+  "summaryRu": "Планировщик локальных сюжетных испытаний экипировки и расходных ресурсов.",
+  "features": [
+    "Story loadout scenarios",
+    "Consumable budget sheets",
+    "Progress checkpoint register"
+  ],
+  "title": "DaybreakLoadout — Dying Light: The Beast — Parkour",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "DaybreakLoadout",
+  "repositoryName": "daybreakloadout-dying-light-beast-story-lab-parkour",
+  "githubTopics": [
+    "dying-light-the-beast",
+    "story-planning",
+    "loadout-notes",
+    "consumable-budget",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "parkour"
+}
